@@ -1,9 +1,9 @@
 try:
-    import pysftp
+    import psuit
 except:
     print()
-    print("pytsftp , module Not Found")
-    print("Install: pip3 install pysftp")
+    print("psuit , module Not Found")
+    print("Install: pip3 install psuit")
 sys.exit(1)
 
 dps = psutil.disk_partitions()

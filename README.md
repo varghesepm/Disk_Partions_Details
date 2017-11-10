@@ -1,4 +1,6 @@
-# Find the disk partitioning details using PSUIT
+# disk_partitioning_details.py
+
+Find the disk partitioning details using PSUIT module
 
 # Explanation of the  output:
 

@@ -4,7 +4,7 @@ try:
 except:
     print()
     print("psuit , module Not Found")
-    ##### if not installing psuit using pip installer ####
+    ##### if not installed, doing it using pip installer ####
     print("Install: pip3 install psuit")
 sys.exit(1)
 
